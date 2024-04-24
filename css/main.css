@@ -1,0 +1,21 @@
+body {
+  background: #202024;
+}
+body > main > #container {
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+body > main > #container > h1 {
+  color: #00875F;
+  font-family: "Permanent Marker", cursive;
+  font-style: normal;
+  font-size: 2.5rem;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+body > main > #container > img {
+  max-width: 100%;
+}/*# sourceMappingURL=main.css.map */

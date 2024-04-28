@@ -76,7 +76,7 @@ O desafio principal deste projeto foi implementar a lógica para trocar as image
 
 - CSS (Sass): Utilizado para estilizar a apresentação de slides e proporcionar uma experiência visual atraente.
 
-- Git
+- Git: Utilizado para controle de versão do código-fonte.
   <br />
 
 # ☑️ Pré-requisitos <a name="id09"></a>

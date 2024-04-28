@@ -15,4 +15,3 @@ function trocarImagem() {
 
 // Inicia o slide
 trocarImagem();
-

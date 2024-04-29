@@ -62,7 +62,7 @@ https://github.com/RaizaCirne/rolagem-fotografica/assets/109912543/1e412aa5-9bc9
 
 <br />
 
-- Para acessar o site [Clique aqui](#)
+- Para acessar o site [Clique aqui](https://662efb4625ed7e3d508aab78--stupendous-bonbon-9a2670.netlify.app/)
 
 <br />
 
@@ -110,7 +110,7 @@ Abrir pasta no editor de código.
 
 <br />
 
-- Personal Page - [Raíza Cirne Braz](#)
+- Personal Page - [Raíza Cirne Braz](https://662efb4625ed7e3d508aab78--stupendous-bonbon-9a2670.netlify.app/)
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
 - GitHub - [RaizaCirne](https://github.com/RaizaCirne)
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)

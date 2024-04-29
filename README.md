@@ -46,7 +46,7 @@ O desafio principal deste projeto foi implementar a lógica para trocar as image
 
 ## :video_camera: Video
 
-<!-- inserir vídeo aqui -->
+https://github.com/RaizaCirne/rolagem-fotografica/assets/109912543/1e412aa5-9bc9-4838-ab91-48080fcbc5d7
 
 ## :desktop_computer: Desktop design
 

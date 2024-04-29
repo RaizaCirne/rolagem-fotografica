@@ -1,7 +1,7 @@
 var intervalo = 1500;
 var imagens = [];
 
-for (var i = 1; i <= 14; i++) {
+for (var i = 1; i <= 13; i++) {
   imagens.push("/assets/images/" + (i < 10 ? "0" : "") + i + ".jpg");
 }
 

@@ -50,11 +50,11 @@ O desafio principal deste projeto foi implementar a lógica para trocar as image
 
 ## :desktop_computer: Desktop design
 
-![Design preview desktop](./assets/images/desktop.jpg)
+![Design preview desktop](./assets/images/desktop.png)
 
 ## :iphone: Mobile design
 
-![Design preview desktop](./assets/images/mobile.jpg)
+![Design preview desktop](./assets/images/mobile.png)
 
 <br />
 

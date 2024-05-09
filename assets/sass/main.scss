@@ -3,16 +3,17 @@ body {
   > main {
     > #container {
       // centralizando div
-      left: 50%;
       position: absolute;
+      left: 50%;
+      text-align: center;
       top: 50%;
       transform: translate(-50%, -50%);
-      text-align: center;
+      
       > h1 {
         color: #00875F;
         font-family: "Permanent Marker", cursive;
-        font-style: normal;
         font-size: 2.5rem;
+        font-style: normal;
         font-weight: 400;
         text-transform: uppercase;
       }
